@@ -1,4 +1,4 @@
-# enigma-v2
+# enigma
 
 made with: python
 
